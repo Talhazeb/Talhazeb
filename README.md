@@ -60,8 +60,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talhazeb" alt="talhazeb" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/talhazeb_khan" target="blank"><img src="https://img.shields.io/twitter/follow/talhazeb_khan?logo=twitter&style=for-the-badge" alt="talhazeb_khan" /></a> </p>
-
 - 👨‍💻 My Portfolio website at [https://talha-zeb.me](https://talha-zeb.me)
 
 - 📫 How to reach me **talhazeb12321@gmail.com**
