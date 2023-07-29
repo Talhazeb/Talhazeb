@@ -8,7 +8,7 @@
   <code>
     <a href="https://www.linkedin.com/in/muhammad-talha-zeb-khan/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
 </h5>
-<br>
+<!-- <br>
 <p align="center">
   Hi, I'm Muhammad Talha Zeb Khan, Final Year Undergrad & Computer Engineer & Software Developer from Pakistan
   <br>
@@ -73,4 +73,4 @@
 <a href="https://fb.com/talhazeb.khan.56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="talhazeb.khan.56" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=talhazeb&show_icons=true&locale=en&layout=compact" alt="talhazeb" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=talhazeb&show_icons=true&locale=en&layout=compact" alt="talhazeb" /></p> -->
